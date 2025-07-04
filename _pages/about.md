@@ -9,4 +9,6 @@ redirect_from:
 
 About me
 ======
-I am a postdoctoral scholar at the Department of Psychology at University of California, Berkeley, working with Dr. Amitai Shenhav. My research is focused on understanding cognitive and motivational processes that enable flexible goal-directed behavior. For example, I study how learning and motivation guide goal engagement, as well as the cognitive processes that allow for flexible changes of goal states. I approach these questions by developing mathematical models of cognitive and motivational processes, which I test using behavioral experiments, model-based neuroimaging, and computational modeling. I also leverage my basic science insights to understand changes in cognition and goal-directed behavior in psychopathology.
+I am currently a post-doctoral scholar in the Department of Psychology at University of California, Berkeley. My research explores the the interaction between decision making, motivation, and cognitive control. I approach these questions through a combination of empirical experiments (e.g., fMRI, EEG, eye-tracking) and computational modelling (e.g., evidence accumulation, Bayesian inference, and optimization).
+
+I obtained my PhD in cognitive science at Brown University. Before that, I completed my BS at Zhejiang Univeristy, China, and my MASc at Queen's University, Canada.
