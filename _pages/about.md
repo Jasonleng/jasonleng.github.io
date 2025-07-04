@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Xiamin (Jason) Leng"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
