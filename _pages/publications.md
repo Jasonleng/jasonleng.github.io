@@ -35,5 +35,5 @@ Slyepchenko, A., Allega, O.R., **Leng, X.**, Minuzzi, L., Eltayebani, M.M., Skel
 
 ### 2018
 
-Allega, O.R., Leng, X., Vaccarino, A., Skelly, M., Lanzini, M., Hidalgo, M.P., Soares, C.N., Kennedy, S.H. and Frey, B.N. (2018). Performance of the biological rhythms interview for assessment in neuropsychiatry: an item response theory and actigraphy analysis. Journal of Aﬀective Disorders, 225, pp.54-63. [link](https://doi.org/10.1016/j.jad.2017.07.047)
+Allega, O.R., **Leng, X.**, Vaccarino, A., Skelly, M., Lanzini, M., Hidalgo, M.P., Soares, C.N., Kennedy, S.H. and Frey, B.N. (2018). Performance of the biological rhythms interview for assessment in neuropsychiatry: an item response theory and actigraphy analysis. Journal of Aﬀective Disorders, 225, pp.54-63. [link](https://doi.org/10.1016/j.jad.2017.07.047)
 
