@@ -1,12 +1,12 @@
 ---
-layout: archive
-title: "Teaching"
 permalink: /teaching/
+title: "Teaching"
 author_profile: true
 ---
 
-{% include base_path %}
+## Graduate Teaching Assistant
+*Spring 2022, Making Decisions, Brown University
+*Fall 2021, Computational Cognitive Neuroscience, Brown University
+*Spring 2020, Multivariate Statistical Techniques, Brown University
+*Fall 2019, Teaching Assistant, Computational Cognitive Neuroscience, Brown University
 
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}
