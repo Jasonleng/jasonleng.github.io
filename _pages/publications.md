@@ -6,13 +6,13 @@ author_profile: true
 
 You can also find the list of my publications on [my Google Scholar profile](https://scholar.google.com/citations?user=6HIwJjsAAAAJ). 
 
-## Peer-Reviewed Journal Papers (* indicates co-authorship)
-
-### Preprint
+## Preprint
 
 **Leng, X.**, Fengler, A., Shenhav, A., & Frank, M. (2025). The perils of omitting omissions when modeling evidence accumulation. PsyArXiv. [link](https://doi.org/10.31234/osf.io/pbrcf_v2)
 
 Grahek, I., **Leng, X.**, Fengler, A., & Shenhav, A. (2025). Slower transitions between control states lead to reductions in cognitive flexibility over the lifespan. bioRxiv, 2025-08. [link](https://doi.org/10.1101/2025.08.27.672689)
+
+## Peer-Reviewed Journal Papers (* indicates co-authorship)
 
 ### 2025
 Grahek, I.*, **Leng, X.\***, Musslick, S., & Shenhav, A. (2025). Control adjustment costs limit goal flexibility: Empirical evidence and a theoretical account. Psychological Review. [link](https://www.biorxiv.org/content/10.1101/2023.08.22.554296v1)
