@@ -8,8 +8,14 @@ You can also find the list of my publications on [my Google Scholar profile](htt
 
 ## Peer-Reviewed Journal Papers (* indicates co-authorship)
 
+### Preprint
+
+**Leng, X.**, Fengler, A., Shenhav, A., & Frank, M. (2025). The Perils of Omitting Omissions when Modeling Evidence Accumulation. PsyArXiv. [link](https://doi.org/10.31234/osf.io/pbrcf_v2)
+
+Grahek, I., **Leng, X.**, Fengler, A., & Shenhav, A. (2025). Slower transitions between control states lead to reductions in cognitive flexibility over the lifespan. bioRxiv, 2025-08. [link](https://doi.org/10.1101/2025.08.27.672689)
+
 ### 2025
-Grahek, I.*, **Leng, X.\***, Musslick, S., & Shenhav, A. (in press). Control adjustment costs limit goal flexibility: Empirical evidence and a theoretical account. Psychological Review. [link](https://www.biorxiv.org/content/10.1101/2023.08.22.554296v1)
+Grahek, I.*, **Leng, X.\***, Musslick, S., & Shenhav, A. (2025). Control adjustment costs limit goal flexibility: Empirical evidence and a theoretical account. Psychological Review. [link](https://www.biorxiv.org/content/10.1101/2023.08.22.554296v1)
 
 **Leng, X.**, Frömer, R., Summe, T., and Shenhav, A. (2025). Mutual inclusivity improves decision-making by smoothing out choices competitive edge. Nature Human Behavior, 9(3), 521-533. [link](https://doi.org/10.1038/s41562-024-02064-7)
 
